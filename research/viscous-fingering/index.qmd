@@ -1,0 +1,25 @@
+---
+title: Viscous Fingers
+alias: &ALIAS viscous-fingers
+image: fingers.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: ../../publications/**/*.qmd
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+![](fingres.png)
+
+Numerical Investigation of Viscous Fingering Phenomenon for Raw Field Data.
+
+## Related Publications
+
+
+:::{#pubs}
+:::

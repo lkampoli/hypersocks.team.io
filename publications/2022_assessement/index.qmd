@@ -1,0 +1,15 @@
+---
+title: "Assessment of Machine Learning Methods for State-to-State Approach in Nonequilibrium Flow Simulations"
+author: ["Campoli, L.", "Kustova, E.", "Maltseva, P."]
+publication: "Mathematics, vol. 10, no. 6, pp. 928."
+categories:
+  - "machine learning; neural network; state-to-state kinetics; vibrational relaxation; chemical reactions"
+url_source: "https://www.mdpi.com/2227-7390/10/6/928"
+url_preprint: 
+journ: "Mathematics"
+issue: 10
+page: "928"
+year: 2022
+image: "image.png"
+pub_number: 86 
+---

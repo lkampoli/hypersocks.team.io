@@ -1,0 +1,15 @@
+---
+title: "Numerical investigation of viscous fingering phenomenon for raw field data"
+author: ["Bakharev F.", "Campoli L.", "Enin A.", "Matveenko S.", "Petrova Y.", "Tikhomirov S.", "Yakovlev A."]
+publication: "Transport in Porous Media. 2020 Mar;132:443-64."
+categories:
+  - "Viscous fingers; Homogeneous media; Water/oil interface; Immiscible fluids; Horizontal well; CFD; Comsol; DuMux"
+url_source: "https://link.springer.com/article/10.1007/s11242-020-01400-5"
+url_preprint: 
+journ: "Transport in Porous Media"
+issue: 3
+page: "443-464"
+year: 2020
+image: "image.png"
+pub_number: 86 
+---

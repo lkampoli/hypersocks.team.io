@@ -1,0 +1,15 @@
+---
+title: "Models validation and code profiling in state-to-state simulations of shock heated air flows"
+author: ["L. Campoli", "O. Kunova", "E. Kustova", "M. Melnik"]
+publication: "Acta Astronautica, Volume 175, 2020, Pages 493-509, ISSN 0094-5765."
+categories:
+  - "State-to-state flow simulations; Vibration-chemical coupling; State-resolved reaction rate coefficients; Shock wave; Model validation; Code profiling"
+url_source: "https://doi.org/10.1016/j.actaastro.2020.06.008"
+url_preprint: 
+journ: "Acta Astronautica"
+issue: 175
+page: "493-509"
+year: 2020
+image: "image.jpg"
+pub_number: 86 
+---

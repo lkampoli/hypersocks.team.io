@@ -1,0 +1,36 @@
+---
+title: "Hypersocks Team"
+about: 
+  id: contacts
+  template: solana
+  image-shape: round
+  image: images/inna.jpeg
+---
+
+
+
+:::{#contacts}
+
+#### Inna Kampoli
+
+#### {{< fa envelope >}} &nbsp; inna.kampoli1@hdr.mq.edu.au
+
+#### {{< fa phone >}} &nbsp; +610452289909
+
+#### {{< fa map-location-dot >}} &nbsp; Department of Earth and Environmental Sciences Chemistry, Macquarie University, Sydney, NSW, Australia
+
+
+
+:::
+
+
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-33.774280, lat=151.114714)
+```
+
+<br>

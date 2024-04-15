@@ -1,0 +1,60 @@
+---
+title: "The Hypersocks Team"
+subtitle: "ON Prime 15 CSIRO Innovation Program"
+date: last-modified
+author: "Hypersocks Team"
+citation_url: https://github.com/lkampoli/hypersocks.team.io
+slug: index
+format: html
+---
+
+## Welcome 
+
+<style>
+  body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-video: "./videos/video.mp4";
+  background-video-loop="true";
+  background-video-muted="true";
+}
+
+</style>
+
+**Welcome to the Hypersocks Team webpage!**
+
+This webpage contains information about the scientific research areas,
+projects, codes, publications, news and contacts of the Hypersocks Team.
+It is under active, open development.
+
+## About ON Prime
+
+![](./images/ONBanner.jpg)
+
+ON Prime gives researchers the skills and confidence to undertake customer
+discovery and market validation activities that enable them to take their
+research further.
+
+ON Prime is a free program designed to help research teams of two to five
+people take their projects to the next level through customer discovery
+activities and more. We work with researchers at any stage of their project
+across all disciplines.
+
+During the nine weeks of ON Prime, you will develop a deeper understanding of
+the people who could benefit the most from your research and sharpen your
+skills to communicate with that audience.
+
+Expert facilitators will support you to build evidence for the impact of your
+research, so you can make a difference in the world and attract the resources
+you need along the way. 
+
+**Learn more about ON Prime 15 CSIRO Innovation Program at:**
+[ON Prime](https://www.csiro.au/en/work-with-us/funding-programs/innovation-programs/on-prime).
+
+## License
+
+The Hypersocks Team makes all of their materials publicly available under open
+source licenses.
+
+Our [License](LICENSE.md) is adapted from [The Turing
+Way](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)

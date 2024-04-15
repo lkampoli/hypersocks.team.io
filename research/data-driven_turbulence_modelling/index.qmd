@@ -1,0 +1,23 @@
+---
+title: Data-driven Turbulence Modelling
+alias: &ALIAS data-driven_turbulence+modelling
+image: gep.jpeg
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: ../../publications/**/*.qmd
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+![](gep.jpeg)
+
+## Related Publications
+
+
+:::{#pubs}
+:::

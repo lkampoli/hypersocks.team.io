@@ -1,0 +1,69 @@
+project: 
+  type: website
+  output-dir: docs # required by github to publish
+
+execute:
+  freeze: auto #true 
+
+website:
+  page-navigation: true  
+  title: "Hypersocks Team"
+  site-url: "https://github.com/lkampoli/hypersocks.team.io" 
+  repo-url: https://github.com/lkampoli/hypersocks.team.io
+  repo-actions: [edit, source, issue]
+  
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org)."
+    left: "&copy; CC-By The Hypersocks Team (2024)."
+ 
+  sidebar:
+    title: "Hypersocks Team"
+    logo: images/logo.png
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://github.com/lkampoli/hypersocks.team.io
+        text: "Hypersocks Team website"
+      - icon: github
+        href: https://github.com/lkampoli/hypersocks.team.io
+        text: "Hypersocks Team repo"
+    
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Welcome"
+        href: index.qmd
+      - text: "Team" 
+        href: team/team.qmd 
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Projects"
+        href: projects/index.md
+      - text: "Codes"
+        href: codes/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Grants"
+        href: grants/index.md
+      - text: "News"
+        href: news/index.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: styles.css
+    toc: true
+    #mainfont: Nunito Sans
+    link-external-newwindow: true
+    date-format: "MMM YYYY"
+    smooth-scroll: true
+
+filters:
+  - include-files.lua
+  - quarto

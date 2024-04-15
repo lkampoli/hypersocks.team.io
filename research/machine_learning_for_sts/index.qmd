@@ -1,0 +1,23 @@
+---
+title: Machine Learning for State-to-State
+alias: &ALIAS ml4sts
+image: ml4sts.png
+listing:
+  id: pubs
+  template: ../../_ejs/publications-people.ejs 
+  contents: ../../publications/**/*.qmd
+  sort: "pub_number desc"
+  # sort-ui: true
+  filter-ui: true
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+
+---
+![](ml4sts.png)
+
+## Related Publications
+
+
+:::{#pubs}
+:::

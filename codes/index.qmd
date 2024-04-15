@@ -1,0 +1,51 @@
+---
+title: Hypersocks Team Codes
+page-layout: full
+---
+
+See our Github site for relevant group codes:
+
+* **<a href=https://github.com/lkampoli/kappa>KAPPA: Kinetic Approach to Physical Processes in Atmospheres</a>**
+This is is an open-source library written in C++ and developed at the
+Department of Hydroaeromechanics of the Saint Petersburg State University
+(SPBSU), designed to be coupled with conventional CFD codes to provide
+thermodynamic, transport, chemistry, and energy transfer properties associated
+with non-equilibrium reacting flows.
+
+* **<a href=https://github.com/UnDiFi/UnDiFi-2D>UnDiFi-2D: an Unstructured Discontinuity Fitting code for 2D grids</a>**
+UnDiFi-2D is written in standard (compliant) Fortran 77/95 with highly
+modularity as design target.  The aim of UnDiFi-2D is to explicitely manage
+discontinuities in the flow field. In our unstructured shock-fitting approach
+the shock front is described using a double-sided, polygonal curve. Two sets of
+flow states, corresponding to the upstream and downstream sides of the
+discontinuity, are assigned to the grid-points located on either side of the
+shock front. This is allowed to move, while obeying to the Rankine-Hugoniot
+jump relations, throughout a background triangular mesh that covers the entire
+computational domain. At each time step, a local, constrained Delaunay
+triangulation is applied in the neighbourhood of the shock front to ensure that
+the edges that make up the shock front are part of the overall triangular grid.
+The fitted shock acts as an interior boundary for the shock-capturing solver
+that is used to solve the discretised governing equations in the smooth regions
+of the flow-field.
+
+* **<a href=https://github.com/lkampoli/ML4STS>ML4STS: Machine Learning for State-To-State</a>**
+This project aims at investigating the usage of machine learning algorithms for
+Tthe solution of high-speed (viscous and inviscid, reacting and non-reacting)
+non-equilibrium flows according to a state-to-state (STS) formulation. Several
+machine learning methods, including neural networks are considered.
+
+* **<a href=https://github.com/lkampoli/INNA>INNA: Introduction to NoNequilibrium Applications</a>**
+This is CFD solver which aims at simulating non-equilibrium flows using
+different levels of approximations: one-temperature (1T), multi-temperature
+(MT), state-to-state (STS). The modular design favors the addition of new
+models or functionalities in a straightforward manner.
+
+* **<a href=https://github.com/lkampoli/Gene-Expression-Programming-GEP>GEP: Gene Expression Programming</a>**
+EVE3 is a machine learning framework based on evolutionary algorithms
+implemented in Python 3. The framework is mostly used to perform symbolic
+regression via Gene Expression Programming. EVE3 is capable of regressing
+multiple mathematical equations simultaneously, scalar, vectorial and
+tensorial, training the equations towards multiple objectives, using variables
+of arbitrary dimensionality and evaluating the equations with external
+software.
+

@@ -1,0 +1,52 @@
+---
+title: "Hypersocks Team"
+page-layout: full
+execute:
+  freeze: auto
+filters:
+   - lightbox
+lightbox: 
+  match: auto
+  effect: fade
+  desc-position: left
+  css-class: "lightwidth"
+comments: false
+format:
+  html:
+    code-link: true
+---
+
+# Members {style="color: transparent;"}
+
+<div class="container">
+  <header class="header show-on-scroll">
+    <h1 class="heading" style="color: white;"> Members </h1>
+  </header>
+</div>
+
+<hr>
+
+
+```{=HTML}
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<section id="container">
+    <div class="user-container">
+
+        <a href="../team/team/ikcampoli/ikampoli.html">
+        <div id="ikampoli" class="card_team inline-photo3 show-on-scroll">
+          <div class="hover_esp_team"> Inna Kampoli</div>
+        </div>
+        </a>
+        
+        <a href="../team/team/lcampoli/lcampoli.html">
+        <div id="valeriagracia" class="card_team inline-photo3 show-on-scroll">
+          <div class="hover_esp_team"> Lorenzo Campoli</div>
+        </div>
+        </a>
+        
+    </div>
+</section>
+ 
+```

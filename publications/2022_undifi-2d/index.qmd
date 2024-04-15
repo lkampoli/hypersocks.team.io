@@ -1,0 +1,15 @@
+---
+title: "UnDiFi-2D: an Unstructured Discontinuity Fitting code for 2D grids"
+author: ["Campoli L.", "Assonitis A.", "Ciallella M.", "Paciorri R.", "Bonfiglioli A.", "Ricchiuto M."]
+publication: "Computer Physics Communications. 2022 Feb 1;271:108202."
+categories:
+  - "machine learning; neural network; state-to-state kinetics; vibrational relaxation; chemical reactions"
+url_source: "https://www.sciencedirect.com/science/article/pii/S0010465521003143"
+url_preprint: 
+journ: "Computer Physics Communications"
+issue: 1
+page: "271"
+year: 2022
+image: "image.jpg"
+pub_number: 86 
+---
