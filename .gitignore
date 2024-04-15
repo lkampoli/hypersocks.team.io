@@ -1,1 +1,11 @@
+*netrc
+*checkpoints
+/tutorials/data/*Links.txt
+*.vrt
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
 /.quarto/
+/_site/
