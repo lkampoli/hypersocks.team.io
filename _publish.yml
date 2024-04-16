@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 206813dc-7072-4ba6-9b28-5ba7923d9832
+      url: 'https://hypersocks.quarto.pub/httpsusernamequartopubhypersocks-team'
+    - id: eeabffd1-a995-4cb4-8a14-8ab91b99429c
+      url: 'https://hypersocks.quarto.pub/hypersocks-team'
