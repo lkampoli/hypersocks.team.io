@@ -1,9 +1,9 @@
 project: 
   type: website
-  output-dir: docs # required by github to publish
+  output-dir: docs 
 
 execute:
-  freeze: auto #true 
+  freeze: auto 
 
 website:
   page-navigation: true  

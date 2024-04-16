@@ -10,17 +10,6 @@ format: html
 
 ## Welcome 
 
-<style>
-  body {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-video: "./videos/video.mp4";
-  background-video-loop="true";
-  background-video-muted="true";
-}
-
-</style>
-
 **Welcome to the Hypersocks Team webpage!**
 
 This webpage contains information about the scientific research areas,
