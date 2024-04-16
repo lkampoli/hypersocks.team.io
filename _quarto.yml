@@ -39,8 +39,8 @@ website:
         href: team/team.qmd 
       - text: "Research"
         href: research/index.qmd
-      - text: "Projects"
-        href: projects/index.md
+        #- text: "Projects"
+        #href: projects/index.md
       - text: "Codes"
         href: codes/index.qmd
       - text: "Publications"
