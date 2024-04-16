@@ -1,53 +1,5 @@
 [
   {
-    "objectID": "codes/index.html",
-    "href": "codes/index.html",
-    "title": "Hypersocks Team Codes",
-    "section": "",
-    "text": "See our Github site for relevant group codes:\n\nKAPPA: Kinetic Approach to Physical Processes in Atmospheres This is is an open-source library written in C++ and developed at the Department of Hydroaeromechanics of the Saint Petersburg State University (SPBSU), designed to be coupled with conventional CFD codes to provide thermodynamic, transport, chemistry, and energy transfer properties associated with non-equilibrium reacting flows.\nUnDiFi-2D: an Unstructured Discontinuity Fitting code for 2D grids UnDiFi-2D is written in standard (compliant) Fortran 77/95 with highly modularity as design target. The aim of UnDiFi-2D is to explicitely manage discontinuities in the flow field. In our unstructured shock-fitting approach the shock front is described using a double-sided, polygonal curve. Two sets of flow states, corresponding to the upstream and downstream sides of the discontinuity, are assigned to the grid-points located on either side of the shock front. This is allowed to move, while obeying to the Rankine-Hugoniot jump relations, throughout a background triangular mesh that covers the entire computational domain. At each time step, a local, constrained Delaunay triangulation is applied in the neighbourhood of the shock front to ensure that the edges that make up the shock front are part of the overall triangular grid. The fitted shock acts as an interior boundary for the shock-capturing solver that is used to solve the discretised governing equations in the smooth regions of the flow-field.\nML4STS: Machine Learning for State-To-State This project aims at investigating the usage of machine learning algorithms for Tthe solution of high-speed (viscous and inviscid, reacting and non-reacting) non-equilibrium flows according to a state-to-state (STS) formulation. Several machine learning methods, including neural networks are considered.\nINNA: Introduction to NoNequilibrium Applications This is CFD solver which aims at simulating non-equilibrium flows using different levels of approximations: one-temperature (1T), multi-temperature (MT), state-to-state (STS). The modular design favors the addition of new models or functionalities in a straightforward manner.\nGEP: Gene Expression Programming EVE3 is a machine learning framework based on evolutionary algorithms implemented in Python 3. The framework is mostly used to perform symbolic regression via Gene Expression Programming. EVE3 is capable of regressing multiple mathematical equations simultaneously, scalar, vectorial and tensorial, training the equations towards multiple objectives, using variables of arbitrary dimensionality and evaluating the equations with external software.",
-    "crumbs": [
-      "Codes"
-    ]
-  },
-  {
-    "objectID": "research/shock-fitting/index.html#related-publications",
-    "href": "research/shock-fitting/index.html#related-publications",
-    "title": "Shock-Fitting",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/non-equilibrium_high-speed_flows/index.html#related-publications",
-    "href": "research/non-equilibrium_high-speed_flows/index.html#related-publications",
-    "title": "Non-Equilibrium High-Speed Flows",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/data-driven_turbulence_modelling/index.html#related-publications",
-    "href": "research/data-driven_turbulence_modelling/index.html#related-publications",
-    "title": "Data-driven Turbulence Modelling",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "grants/index.html",
-    "href": "grants/index.html",
-    "title": "Research Grants",
-    "section": "",
-    "text": "Research Grants\n\nDog_2019 - 1: Development of tools for determining the definition of optimal EOR: connection of EORand mechanisms of influence, methods of monitoring, 13/03/19 – 16/05/19\nDog_2019 - 2: Development of methods for increasing the predictive ability of three-dimensional digital geological models, 31/05/19 – 30/09/19\nDog_2019 - 3: Development of tools for determining the optimal EOR in terms of the SAW-polymer and alkaline-polymer flooding, estimates of Kohv in a 5-point system work, evaluation of the optimal size of the polymer fringe, 22/10/19 – 31/12/19\nDog_2019 - 4 : Development of methods for increasing the predictive ability of three-dimensional digital geological models, 16/12/19 – 19/03/20\nDog_2019 - 5: Donation agreement No. 117/19-BP, 1/01/20 – 31/12/20\nRSF_RG_2019 - 1: Modeling of non-equilibrium carbon dioxide flows in modern problems of space aerodynamics and ecology of the Earth: 2019 stage 1, 6/05/19 – 31/12/19\nRSF_RG_2019 - 2: Modeling of non-equilibrium flows of carbon dioxide in modern tasks of space aerodynamics and ecology of the Earth: 2020 stage 2, 1/01/20 – 31/12/20\nRSF_RG_2019 - 3: Modeling of non-equilibrium flows of carbon dioxide in modern tasks of space aerodynamics and ecology of the Earth: 2021 stage 3, 1/01/21 – 31/12/21\nM1_2021 - 1: Machine learning in problems of non-equilibrium aeromechanics: 2021 stage 1, 24/08/21 – 31/12/21",
-    "crumbs": [
-      "Grants"
-    ]
-  },
-  {
-    "objectID": "team/team/inna_kampoli/innakampoli.html",
-    "href": "team/team/inna_kampoli/innakampoli.html",
-    "title": "Inna Kampoli",
-    "section": "",
-    "text": "Hello! I’m Inna. I’m a Petroleum Systems geologist with 9 years experience in oil and gas upstream sector. Background in petroleum systems and sedimentary basins analysis, petroleum potential assessment, play risk and license blocks evaluation all over the world: Angola, Egypt, Congo (Brazzaville), Gabon, Norway, Mexico, Iran, Kurdistan, Libya. Proficient in petroleum systems modeling: Kurdistan, Pechora sea, Taymyr peninsula, Gydan peninsula, West Siberian basin, Chukotka sea. Currently a PhD student at Macquarie University. I love dogs, hiking, swimming and reading."
-  },
-  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects Overview",
@@ -69,71 +21,11 @@
     "text": "Project 2:"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Hypersocks Team",
-    "section": "",
-    "text": "Welcome to the Hypersocks Team webpage!\nThis webpage contains information about the scientific research areas, projects, codes, publications, news and contacts of the Hypersocks Team. It is under active, open development.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "The Hypersocks Team",
-    "section": "",
-    "text": "Welcome to the Hypersocks Team webpage!\nThis webpage contains information about the scientific research areas, projects, codes, publications, news and contacts of the Hypersocks Team. It is under active, open development.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#about-on-prime",
-    "href": "index.html#about-on-prime",
-    "title": "The Hypersocks Team",
-    "section": "About ON Prime",
-    "text": "About ON Prime\n\nON Prime gives researchers the skills and confidence to undertake customer discovery and market validation activities that enable them to take their research further.\nON Prime is a free program designed to help research teams of two to five people take their projects to the next level through customer discovery activities and more. We work with researchers at any stage of their project across all disciplines.\nDuring the nine weeks of ON Prime, you will develop a deeper understanding of the people who could benefit the most from your research and sharpen your skills to communicate with that audience.\nExpert facilitators will support you to build evidence for the impact of your research, so you can make a difference in the world and attract the resources you need along the way.\nLearn more about ON Prime 15 CSIRO Innovation Program at: ON Prime.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#license",
-    "href": "index.html#license",
-    "title": "The Hypersocks Team",
-    "section": "License",
-    "text": "License\nThe Hypersocks Team makes all of their materials publicly available under open source licenses.\nOur License is adapted from The Turing Way",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
-    "section": "",
-    "text": "Acceptance for ON Prime 15 Innovation Program\n\n\n\n\n\nThe Hypersocks Team was successful with the application for ON Prime Program.\n\n\n\n\n\nMar 2024\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "News"
-    ]
-  },
-  {
     "objectID": "contacts/contacts.html",
     "href": "contacts/contacts.html",
     "title": "Hypersocks Team",
     "section": "",
-    "text": "Inna Kampoli\n\n\n{{&lt; fa envelope &gt;}}   inna.kampoli1@hdr.mq.edu.au\n\n\n{{&lt; fa phone &gt;}}   +610452289909\n\n\n{{&lt; fa map-location-dot &gt;}}   Department of Earth and Environmental Sciences Chemistry, Macquarie University, Sydney, NSW, Australia"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Models validation and code profiling in state-to-state simulations of shock heated air flows\n            \n            \n                \n                \n                    L. Campoli, O. Kunova, E. Kustova, M. Melnik \n                \n                \n                \n                    \n                        Acta Astronautica, 175, 493-509 (2020)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n            \n                \n                    86 \n                \n\n            \n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n\n            \n\n        \n    \n    \n    \n    \n    \n        \n            \n\n                \n                    \n                    \n                    \n\n                \n      \n\n            \n        \n        \n            \n            Numerical investigation of viscous fingering phenomenon for raw field data\n            \n            \n                \n                \n                    Bakharev F., Campoli L., Enin A., Matveenko S., Petrova Y., Tikhomirov S., Yakovlev A. \n                \n                \n                \n                    \n                        Transport in Porous Media, 3, 443-464 (2020)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n            \n                \n                    86 \n                \n\n            \n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n\n            \n\n        \n    \n    \n    \n    \n    \n        \n            \n\n                \n                    \n                    \n                    \n\n                \n      \n\n            \n        \n        \n            \n            Assessment of Machine Learning Methods for State-to-State Approach in Nonequilibrium Flow Simulations\n            \n            \n                \n                \n                    Campoli, L., Kustova, E., Maltseva, P. \n                \n                \n                \n                    \n                        Mathematics, 10, 928 (2022)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n            \n                \n                    86 \n                \n\n            \n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n\n            \n\n        \n    \n    \n    \n    \n    \n        \n            \n\n                \n                    \n                    \n                    \n\n                \n      \n\n            \n        \n        \n            \n            UnDiFi-2D: an Unstructured Discontinuity Fitting code for 2D grids\n            \n            \n                \n                \n                    Campoli L., Assonitis A., Ciallella M., Paciorri R., Bonfiglioli A., Ricchiuto M. \n                \n                \n                \n                    \n                        Computer Physics Communications, 1, 271 (2022)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n            \n                \n                    86 \n                \n\n            \n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n\n            \n\n        \n    \n    \n    \n    \n\n\nNo matching items",
-    "crumbs": [
-      "Publications"
-    ]
+    "text": "Inna Kampoli\n\n\n   inna.kampoli1@hdr.mq.edu.au\n\n\n   +610452289909\n\n\n   Department of Earth and Environmental Sciences Chemistry, Macquarie University, Sydney, NSW, Australia"
   },
   {
     "objectID": "team/team/lorenzo_campoli/lorenzocampoli.html",
@@ -143,34 +35,25 @@
     "text": "Hello! I’m Lorenzo. I received a Ph.D. degree in Theoretical and Applied Mechanics from Department of Mechanical and Aerospace Engineering from Sapienza University of Rome, Italy in 2016. I was a PostDoc researcher at Saint-Petersburg State University unitl 2022. After that I obtained a professorship from the same University. I’m currently a research fellow at the University of Melbourne and Associate Professor at Macquarie University. My main research interests include:\n\nshock-fitting numerical techniques\nhigh-speed nonequilibrium flows modeling\ndata-driven turbulence model closure\nmachine learning for CFD"
   },
   {
-    "objectID": "team/team.html",
-    "href": "team/team.html",
-    "title": "Hypersocks Team",
-    "section": "",
-    "text": "Hello! I’m Inna. I’m a Petroleum Systems geologist with 9 years experience in oil and gas upstream sector. Background in petroleum systems and sedimentary basins analysis, petroleum potential assessment, play risk and license blocks evaluation all over the world: Angola, Egypt, Congo (Brazzaville), Gabon, Norway, Mexico, Iran, Kurdistan, Libya. Proficient in petroleum systems modeling: Kurdistan, Pechora sea, Taymyr peninsula, Gydan peninsula, West Siberian basin, Chukotka sea. I’m currently a PhD student at Macquarie University. My main research interests include:\n\nnatural gas exploration\nCO2 capturing\npetroleum system modeling\ngeochemistry\n\nI love dogs, hiking, swimming and reading.",
-    "crumbs": [
-      "Team"
-    ]
+    "objectID": "research/shock-fitting/index.html#related-publications",
+    "href": "research/shock-fitting/index.html#related-publications",
+    "title": "Shock-Fitting",
+    "section": "Related Publications",
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNo matching items"
   },
   {
-    "objectID": "team/team.html#inna-kampoli",
-    "href": "team/team.html#inna-kampoli",
-    "title": "Hypersocks Team",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research Areas",
     "section": "",
-    "text": "Hello! I’m Inna. I’m a Petroleum Systems geologist with 9 years experience in oil and gas upstream sector. Background in petroleum systems and sedimentary basins analysis, petroleum potential assessment, play risk and license blocks evaluation all over the world: Angola, Egypt, Congo (Brazzaville), Gabon, Norway, Mexico, Iran, Kurdistan, Libya. Proficient in petroleum systems modeling: Kurdistan, Pechora sea, Taymyr peninsula, Gydan peninsula, West Siberian basin, Chukotka sea. I’m currently a PhD student at Macquarie University. My main research interests include:\n\nnatural gas exploration\nCO2 capturing\npetroleum system modeling\ngeochemistry\n\nI love dogs, hiking, swimming and reading.",
-    "crumbs": [
-      "Team"
-    ]
+    "text": "Data-driven Turbulence Modelling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning for State-to-State\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNon-Equilibrium High-Speed Flows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShock-Fitting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViscous Fingers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "team/team.html#lorenzo-campoli",
-    "href": "team/team.html#lorenzo-campoli",
-    "title": "Hypersocks Team",
-    "section": "Lorenzo Campoli",
-    "text": "Lorenzo Campoli\n\n\n\n\n\n\nHello! I’m Lorenzo. I received a Ph.D. degree in Theoretical and Applied Mechanics from Department of Mechanical and Aerospace Engineering from Sapienza University of Rome, Italy in 2016. I was a PostDoc researcher at Saint-Petersburg State University unitl 2022. After that I obtained a professorship from the same University. I’m currently a research fellow at the University of Melbourne and Associate Professor at Macquarie University. My main research interests include:\n\nshock-fitting numerical techniques\nhigh-speed nonequilibrium flows modeling\ndata-driven turbulence model closure\nmachine learning for CFD",
-    "crumbs": [
-      "Team"
-    ]
+    "objectID": "research/machine_learning_for_sts/index.html#related-publications",
+    "href": "research/machine_learning_for_sts/index.html#related-publications",
+    "title": "Machine Learning for State-to-State",
+    "section": "Related Publications",
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNo matching items"
   },
   {
     "objectID": "LICENSE.html",
@@ -194,21 +77,46 @@
     "text": "Except where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the OSI-approved MIT license.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research Areas",
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
     "section": "",
-    "text": "Data-driven Turbulence Modelling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning for State-to-State\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNon-Equilibrium High-Speed Flows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShock-Fitting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViscous Fingers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Research"
-    ]
+    "text": "Models validation and code profiling in state-to-state simulations of shock heated air flows\n            \n            \n                \n                    L. Campoli, O. Kunova, E. Kustova, M. Melnik \n                \n                \n                        Acta Astronautica, 175, 493-509 (2020)\n                \n            \n \n        \n        \n            \n                \n                    86 \n                \n            \n            \n                    \n                    journal URL \n                    \n                \n        \n    \n    \n        \n            \n                \n                    \n                \n            \n        \n        \n            \n            Numerical investigation of viscous fingering phenomenon for raw field data\n            \n            \n                \n                    Bakharev F., Campoli L., Enin A., Matveenko S., Petrova Y., Tikhomirov S., Yakovlev A. \n                \n                \n                        Transport in Porous Media, 3, 443-464 (2020)\n                \n            \n \n        \n        \n            \n                \n                    86 \n                \n            \n            \n                    \n                    journal URL \n                    \n                \n        \n    \n    \n        \n            \n                \n                    \n                \n            \n        \n        \n            \n            Assessment of Machine Learning Methods for State-to-State Approach in Nonequilibrium Flow Simulations\n            \n            \n                \n                    Campoli, L., Kustova, E., Maltseva, P. \n                \n                \n                        Mathematics, 10, 928 (2022)\n                \n            \n \n        \n        \n            \n                \n                    86 \n                \n            \n            \n                    \n                    journal URL \n                    \n                \n        \n    \n    \n        \n            \n                \n                    \n                \n            \n        \n        \n            \n            UnDiFi-2D: an Unstructured Discontinuity Fitting code for 2D grids\n            \n            \n                \n                    Campoli L., Assonitis A., Ciallella M., Paciorri R., Bonfiglioli A., Ricchiuto M. \n                \n                \n                        Computer Physics Communications, 1, 271 (2022)\n                \n            \n \n        \n        \n            \n                \n                    86 \n                \n            \n            \n                    \n                    journal URL \n                    \n                \n        \n    \n    \n\nNo matching items"
   },
   {
-    "objectID": "research/machine_learning_for_sts/index.html#related-publications",
-    "href": "research/machine_learning_for_sts/index.html#related-publications",
-    "title": "Machine Learning for State-to-State",
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Acceptance for ON Prime 15 Innovation Program\n\n\n\n\n\nThe Hypersocks Team was successful with the application for ON Prime Program.\n\n\n\n\n\n\nMar 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "grants/index.html",
+    "href": "grants/index.html",
+    "title": "Research Grants",
+    "section": "",
+    "text": "Research Grants\n\nDog_2019 - 1: Development of tools for determining the definition of optimal EOR: connection of EORand mechanisms of influence, methods of monitoring, 13/03/19 – 16/05/19\nDog_2019 - 2: Development of methods for increasing the predictive ability of three-dimensional digital geological models, 31/05/19 – 30/09/19\nDog_2019 - 3: Development of tools for determining the optimal EOR in terms of the SAW-polymer and alkaline-polymer flooding, estimates of Kohv in a 5-point system work, evaluation of the optimal size of the polymer fringe, 22/10/19 – 31/12/19\nDog_2019 - 4 : Development of methods for increasing the predictive ability of three-dimensional digital geological models, 16/12/19 – 19/03/20\nDog_2019 - 5: Donation agreement No. 117/19-BP, 1/01/20 – 31/12/20\nRSF_RG_2019 - 1: Modeling of non-equilibrium carbon dioxide flows in modern problems of space aerodynamics and ecology of the Earth: 2019 stage 1, 6/05/19 – 31/12/19\nRSF_RG_2019 - 2: Modeling of non-equilibrium flows of carbon dioxide in modern tasks of space aerodynamics and ecology of the Earth: 2020 stage 2, 1/01/20 – 31/12/20\nRSF_RG_2019 - 3: Modeling of non-equilibrium flows of carbon dioxide in modern tasks of space aerodynamics and ecology of the Earth: 2021 stage 3, 1/01/21 – 31/12/21\nM1_2021 - 1: Machine learning in problems of non-equilibrium aeromechanics: 2021 stage 1, 24/08/21 – 31/12/21"
+  },
+  {
+    "objectID": "codes/index.html",
+    "href": "codes/index.html",
+    "title": "Hypersocks Team Codes",
+    "section": "",
+    "text": "See our Github site for relevant group codes:\n\nKAPPA: Kinetic Approach to Physical Processes in Atmospheres This is is an open-source library written in C++ and developed at the Department of Hydroaeromechanics of the Saint Petersburg State University (SPBSU), designed to be coupled with conventional CFD codes to provide thermodynamic, transport, chemistry, and energy transfer properties associated with non-equilibrium reacting flows.\nUnDiFi-2D: an Unstructured Discontinuity Fitting code for 2D grids UnDiFi-2D is written in standard (compliant) Fortran 77/95 with highly modularity as design target. The aim of UnDiFi-2D is to explicitely manage discontinuities in the flow field. In our unstructured shock-fitting approach the shock front is described using a double-sided, polygonal curve. Two sets of flow states, corresponding to the upstream and downstream sides of the discontinuity, are assigned to the grid-points located on either side of the shock front. This is allowed to move, while obeying to the Rankine-Hugoniot jump relations, throughout a background triangular mesh that covers the entire computational domain. At each time step, a local, constrained Delaunay triangulation is applied in the neighbourhood of the shock front to ensure that the edges that make up the shock front are part of the overall triangular grid. The fitted shock acts as an interior boundary for the shock-capturing solver that is used to solve the discretised governing equations in the smooth regions of the flow-field.\nML4STS: Machine Learning for State-To-State This project aims at investigating the usage of machine learning algorithms for Tthe solution of high-speed (viscous and inviscid, reacting and non-reacting) non-equilibrium flows according to a state-to-state (STS) formulation. Several machine learning methods, including neural networks are considered.\nINNA: Introduction to NoNequilibrium Applications This is CFD solver which aims at simulating non-equilibrium flows using different levels of approximations: one-temperature (1T), multi-temperature (MT), state-to-state (STS). The modular design favors the addition of new models or functionalities in a straightforward manner.\nGEP: Gene Expression Programming EVE3 is a machine learning framework based on evolutionary algorithms implemented in Python 3. The framework is mostly used to perform symbolic regression via Gene Expression Programming. EVE3 is capable of regressing multiple mathematical equations simultaneously, scalar, vectorial and tensorial, training the equations towards multiple objectives, using variables of arbitrary dimensionality and evaluating the equations with external software."
+  },
+  {
+    "objectID": "research/non-equilibrium_high-speed_flows/index.html#related-publications",
+    "href": "research/non-equilibrium_high-speed_flows/index.html#related-publications",
+    "title": "Non-Equilibrium High-Speed Flows",
     "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNo matching items"
+  },
+  {
+    "objectID": "research/data-driven_turbulence_modelling/index.html#related-publications",
+    "href": "research/data-driven_turbulence_modelling/index.html#related-publications",
+    "title": "Data-driven Turbulence Modelling",
+    "section": "Related Publications",
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNo matching items"
   },
   {
     "objectID": "research/viscous-fingering/index.html",
@@ -222,6 +130,62 @@
     "href": "research/viscous-fingering/index.html#related-publications",
     "title": "Viscous Fingers",
     "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n\nNo matching items"
+  },
+  {
+    "objectID": "team/team.html",
+    "href": "team/team.html",
+    "title": "Hypersocks Team",
+    "section": "",
+    "text": "Hello! I’m Inna. I’m a Petroleum Systems geologist with 9 years experience in oil and gas upstream sector. Background in petroleum systems and sedimentary basins analysis, petroleum potential assessment, play risk and license blocks evaluation all over the world: Angola, Egypt, Congo (Brazzaville), Gabon, Norway, Mexico, Iran, Kurdistan, Libya. Proficient in petroleum systems modeling: Kurdistan, Pechora sea, Taymyr peninsula, Gydan peninsula, West Siberian basin, Chukotka sea. I’m currently a PhD student at Macquarie University. My main research interests include:\n\nnatural gas exploration\nCO2 capturing\npetroleum system modeling\ngeochemistry\n\nI love dogs, hiking, swimming and reading."
+  },
+  {
+    "objectID": "team/team.html#inna-kampoli",
+    "href": "team/team.html#inna-kampoli",
+    "title": "Hypersocks Team",
+    "section": "",
+    "text": "Hello! I’m Inna. I’m a Petroleum Systems geologist with 9 years experience in oil and gas upstream sector. Background in petroleum systems and sedimentary basins analysis, petroleum potential assessment, play risk and license blocks evaluation all over the world: Angola, Egypt, Congo (Brazzaville), Gabon, Norway, Mexico, Iran, Kurdistan, Libya. Proficient in petroleum systems modeling: Kurdistan, Pechora sea, Taymyr peninsula, Gydan peninsula, West Siberian basin, Chukotka sea. I’m currently a PhD student at Macquarie University. My main research interests include:\n\nnatural gas exploration\nCO2 capturing\npetroleum system modeling\ngeochemistry\n\nI love dogs, hiking, swimming and reading."
+  },
+  {
+    "objectID": "team/team.html#lorenzo-campoli",
+    "href": "team/team.html#lorenzo-campoli",
+    "title": "Hypersocks Team",
+    "section": "Lorenzo Campoli",
+    "text": "Lorenzo Campoli\n\n\n\n\n\n\nHello! I’m Lorenzo. I received a Ph.D. degree in Theoretical and Applied Mechanics from Department of Mechanical and Aerospace Engineering from Sapienza University of Rome, Italy in 2016. I was a PostDoc researcher at Saint-Petersburg State University unitl 2022. After that I obtained a professorship from the same University. I’m currently a research fellow at the University of Melbourne and Associate Professor at Macquarie University. My main research interests include:\n\nshock-fitting numerical techniques\nhigh-speed nonequilibrium flows modeling\ndata-driven turbulence model closure\nmachine learning for CFD"
+  },
+  {
+    "objectID": "team/team/inna_kampoli/innakampoli.html",
+    "href": "team/team/inna_kampoli/innakampoli.html",
+    "title": "Inna Kampoli",
+    "section": "",
+    "text": "Hello! I’m Inna. I’m a Petroleum Systems geologist with 9 years experience in oil and gas upstream sector. Background in petroleum systems and sedimentary basins analysis, petroleum potential assessment, play risk and license blocks evaluation all over the world: Angola, Egypt, Congo (Brazzaville), Gabon, Norway, Mexico, Iran, Kurdistan, Libya. Proficient in petroleum systems modeling: Kurdistan, Pechora sea, Taymyr peninsula, Gydan peninsula, West Siberian basin, Chukotka sea. Currently a PhD student at Macquarie University. I love dogs, hiking, swimming and reading."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Hypersocks Team",
+    "section": "",
+    "text": "Welcome to the Hypersocks Team webpage!\nThis webpage contains information about the scientific research areas, projects, codes, publications, news and contacts of the Hypersocks Team. It is under active, open development."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "The Hypersocks Team",
+    "section": "",
+    "text": "Welcome to the Hypersocks Team webpage!\nThis webpage contains information about the scientific research areas, projects, codes, publications, news and contacts of the Hypersocks Team. It is under active, open development."
+  },
+  {
+    "objectID": "index.html#about-on-prime",
+    "href": "index.html#about-on-prime",
+    "title": "The Hypersocks Team",
+    "section": "About ON Prime",
+    "text": "About ON Prime\n\nON Prime gives researchers the skills and confidence to undertake customer discovery and market validation activities that enable them to take their research further.\nON Prime is a free program designed to help research teams of two to five people take their projects to the next level through customer discovery activities and more. We work with researchers at any stage of their project across all disciplines.\nDuring the nine weeks of ON Prime, you will develop a deeper understanding of the people who could benefit the most from your research and sharpen your skills to communicate with that audience.\nExpert facilitators will support you to build evidence for the impact of your research, so you can make a difference in the world and attract the resources you need along the way.\nLearn more about ON Prime 15 CSIRO Innovation Program at: ON Prime."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "The Hypersocks Team",
+    "section": "License",
+    "text": "License\nThe Hypersocks Team makes all of their materials publicly available under open source licenses.\nOur License is adapted from The Turing Way"
   }
 ]
