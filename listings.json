@@ -4,18 +4,18 @@
     "items": []
   },
   {
-    "listing": "/research/index.html",
-    "items": [
-      "/research/data-driven_turbulence_modelling/index.html",
-      "/research/machine_learning_for_sts/index.html",
-      "/research/non-equilibrium_high-speed_flows/index.html",
-      "/research/shock-fitting/index.html",
-      "/research/viscous-fingering/index.html"
-    ]
+    "listing": "/research/non-equilibrium_high-speed_flows/index.html",
+    "items": []
   },
   {
-    "listing": "/research/machine_learning_for_sts/index.html",
+    "listing": "/research/data-driven_turbulence_modelling/index.html",
     "items": []
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/2024-04-24-acceptance/index.html"
+    ]
   },
   {
     "listing": "/publications/index.html",
@@ -27,17 +27,17 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/research/index.html",
     "items": [
-      "/news/2024-04-24-acceptance/index.html"
+      "/research/data-driven_turbulence_modelling/index.html",
+      "/research/machine_learning_for_sts/index.html",
+      "/research/non-equilibrium_high-speed_flows/index.html",
+      "/research/shock-fitting/index.html",
+      "/research/viscous-fingering/index.html"
     ]
   },
   {
-    "listing": "/research/non-equilibrium_high-speed_flows/index.html",
-    "items": []
-  },
-  {
-    "listing": "/research/data-driven_turbulence_modelling/index.html",
+    "listing": "/research/machine_learning_for_sts/index.html",
     "items": []
   },
   {
