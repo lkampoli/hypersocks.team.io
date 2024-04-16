@@ -1,0 +1,38 @@
+---
+title: "Inna Kampoli"
+page-layout: full
+image: ../../../images/inna.jpeg
+filters:
+   - lightbox
+lightbox: 
+  match: auto
+  effect: fade
+  desc-position: left
+  css-class: "lightwidth"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: "{{< fa brands linkedin >}} LinkedIn"
+      url: "linkedin.com/in/inna-kampoli-5155804b"
+    #- text: "{{< fa brands github >}} GitHub"
+    #  url: "https://github.com/vgraciaol"
+    #- text: "{{< fa brands twitter >}} Twitter"
+    #  url: "https://twitter.com/vgraciaol"
+    #- text: "{{< fa brands orcid >}} ORCID"
+    #  url: "https://orcid.org/0000-0003-4853-2922"
+    - text: "{{< fa solid envelopes-bulk >}} Mail"
+      url: "mailto:inna.kampoli1@hdr.mq.edu.au"
+    #- text: "{{< fa solid film >}} Letterboxd"
+    #  url: "https://letterboxd.com/vgraciaol/"
+comments: false
+---
+
+Hello! I'm Inna. I'm a Petroleum Systems geologist with 9 years experience in
+oil and gas upstream sector. Background in petroleum systems and sedimentary
+basins analysis, petroleum potential assessment, play risk and license blocks
+evaluation all over the world: Angola, Egypt, Congo (Brazzaville), Gabon,
+Norway, Mexico, Iran, Kurdistan, Libya. Proficient in petroleum systems
+modeling: Kurdistan, Pechora sea, Taymyr peninsula, Gydan peninsula, West
+Siberian basin, Chukotka sea. Currently a PhD student at Macquarie University.
+I love dogs, hiking, swimming and reading.

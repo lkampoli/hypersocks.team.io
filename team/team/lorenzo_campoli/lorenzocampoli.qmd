@@ -1,0 +1,45 @@
+---
+title: "Lorenzo Campoli"
+page-layout: full
+image: ../../../images/lorenzo.png
+filters:
+   - lightbox
+lightbox: 
+  match: auto
+  effect: fade
+  desc-position: left
+  css-class: "lightwidth"
+about:
+  template: trestles
+  image-shape: rounded
+  links:
+    - text: "{{< fa brands linkedin >}} LinkedIn"
+      url: "https://www.linkedin.com/in/lorenzo-campoli-325299191"
+    - text: "{{< fa brands github >}} GitHub"
+      url: "https://github.com/lkampoli"
+    #- text: "{{< fa brands twitter >}} Twitter"
+    #  url: "https://twitter.com/jorgeroac"
+    - text: "{{< fa brands orcid >}} ORCID"
+      url: "https://orcid.org/0000-0002-0510-9422"
+    - text: "{{< fa solid envelopes-bulk >}} Mail"
+      url: "mailto:campoli.lorenzo@gmail.com"
+    #- text: "{{< fa solid film >}} Letterboxd"
+    #  url: "https://letterboxd.com/JorgeRoa/"
+comments: false
+---
+
+Hello! I'm Lorenzo. I received a Ph.D. degree in Theoretical and Applied
+Mechanics from Department of Mechanical and Aerospace Engineering from Sapienza
+University of Rome, Italy in 2016. I was a PostDoc researcher at
+Saint-Petersburg State University unitl 2022. After that I obtained a
+professorship from the same University. I'm currently a research fellow at the
+University of Melbourne and Associate Professor at Macquarie University.  My
+main research interests include:
+
+- shock-fitting numerical techniques
+
+- high-speed nonequilibrium flows modeling
+
+- data-driven turbulence model closure
+
+- machine learning for CFD

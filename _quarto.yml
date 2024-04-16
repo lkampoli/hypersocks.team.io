@@ -7,7 +7,7 @@ execute:
 
 website:
   page-navigation: true  
-  title: "Hypersocks Team"
+  title: <br>"Hypersocks Team"
   site-url: "https://github.com/lkampoli/hypersocks.team.io" 
   repo-url: https://github.com/lkampoli/hypersocks.team.io
   repo-actions: [edit, source, issue]
@@ -17,17 +17,17 @@ website:
     left: "&copy; CC-By The Hypersocks Team (2024)."
  
   sidebar:
-    title: "Hypersocks Team"
+    title: "Hypersocks Team <br>"
     logo: images/logo.png
     pinned: true
     align: center
     tools: 
-      - icon: globe
+      - text: "Hypersocks Team website"
+        icon: globe
         href: https://github.com/lkampoli/hypersocks.team.io
-        text: "Hypersocks Team website"
-      - icon: github
+      - text: "Hypersocks Team repo"
+        icon: github
         href: https://github.com/lkampoli/hypersocks.team.io
-        text: "Hypersocks Team repo"
     
     style: "docked"
     search: true
@@ -39,8 +39,6 @@ website:
         href: team/team.qmd 
       - text: "Research"
         href: research/index.qmd
-        #- text: "Projects"
-        #href: projects/index.md
       - text: "Codes"
         href: codes/index.qmd
       - text: "Publications"

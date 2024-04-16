@@ -1,52 +1,76 @@
 ---
 title: "Hypersocks Team"
 page-layout: full
-execute:
-  freeze: auto
-filters:
-   - lightbox
-lightbox: 
-  match: auto
-  effect: fade
-  desc-position: left
-  css-class: "lightwidth"
-comments: false
-format:
-  html:
-    code-link: true
+format: html
 ---
 
-# Members {style="color: transparent;"}
+## Inna Kampoli
 
-<div class="container">
-  <header class="header show-on-scroll">
-    <h1 class="heading" style="color: white;"> Members </h1>
-  </header>
-</div>
+::: columns
+::: {.column width="40%"}
 
-<hr>
+![](inna.jpeg)
+:::
 
+::: {.column width="5%"}
+:::
 
-```{=HTML}
+::: {.column width="55%"}
 
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  Hello! I'm Inna. I'm a Petroleum Systems geologist with 9 years experience in
+  oil and gas upstream sector. Background in petroleum systems and sedimentary
+  basins analysis, petroleum potential assessment, play risk and license blocks
+  evaluation all over the world: Angola, Egypt, Congo (Brazzaville), Gabon,
+  Norway, Mexico, Iran, Kurdistan, Libya. Proficient in petroleum systems
+  modeling: Kurdistan, Pechora sea, Taymyr peninsula, Gydan peninsula, West
+  Siberian basin, Chukotka sea. I'm currently a PhD student at Macquarie
+  University. My main research interests include:
 
-<section id="container">
-    <div class="user-container">
+  - natural gas exploration
 
-        <a href="../team/team/ikcampoli/ikampoli.html">
-        <div id="ikampoli" class="card_team inline-photo3 show-on-scroll">
-          <div class="hover_esp_team"> Inna Kampoli</div>
-        </div>
-        </a>
-        
-        <a href="../team/team/lcampoli/lcampoli.html">
-        <div id="valeriagracia" class="card_team inline-photo3 show-on-scroll">
-          <div class="hover_esp_team"> Lorenzo Campoli</div>
-        </div>
-        </a>
-        
-    </div>
-</section>
- 
-```
+  - CO<sub>2</sub> capturing
+
+  - petroleum system modeling
+
+  - geochemistry
+  
+  I love dogs, hiking, swimming and reading.
+
+<br>
+
+:::
+:::
+
+## Lorenzo Campoli
+
+::: columns
+::: {.column width="40%"}
+
+![](lorenzo.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+  Hello! I'm Lorenzo. I received a Ph.D. degree in Theoretical and Applied
+  Mechanics from Department of Mechanical and Aerospace Engineering from
+  Sapienza University of Rome, Italy in 2016. I was a PostDoc researcher at
+  Saint-Petersburg State University unitl 2022. After that I obtained a
+  professorship from the same University. I'm currently a research fellow at
+  the University of Melbourne and Associate Professor at Macquarie University.
+  My main research interests include:
+
+- shock-fitting numerical techniques
+
+- high-speed nonequilibrium flows modeling
+
+- data-driven turbulence model closure
+
+- machine learning for CFD
+
+<br>
+
+:::
+:::
