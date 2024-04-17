@@ -1,0 +1,15 @@
+---
+title: "KAPPA: Kinetic approach to physical processes in atmospheres library in C++"
+author: ["Campoli, L.", "Oblapenko, G. P.", "Kustova", "Elena V."]
+publication: "Computer Physics Communications, 236, 244-267, 2019."
+categories:
+  - "CFD KAPPA OOP C++ Non-equilibrium reacting flow Transport properties"
+url_source: "https://www.sciencedirect.com/science/article/pii/S0010465518303643?via%3Dihub"
+url_preprint: "https://github.com/lkampoli/kappa"
+journ: "Computer Physics Communications"
+issue: 236
+page: "244-267"
+year: 2019
+image: "image.jpg"
+pub_number: 
+---

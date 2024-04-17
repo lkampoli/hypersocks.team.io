@@ -1,0 +1,15 @@
+---
+title: "Overview and perspectives of KAPPA library"
+author: ["Campoli, L.", "Oblapenko, G. P.", "Kustova, E. V."]
+publication: "AIP Conference Proceedings, 2132, 1, 2019."
+categories:
+  - "state-to-state kinetics; multi-temperature; vibrational relaxation; chemical reactions; open-source C++ library;"
+url_source: "https://pubs.aip.org/aip/acp/article/2132/1/150005/1004270/Overview-and-perspectives-of-KAPPA-library"
+url_preprint: 
+journ: "AIP Conference Proceedings"
+issue: 1
+page: "2132"
+year: 2019
+image: "image.jpg"
+pub_number: 
+---

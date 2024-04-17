@@ -11,5 +11,5 @@ issue: 10
 page: "928"
 year: 2022
 image: "image.png"
-pub_number: 86 
+pub_number: 
 ---

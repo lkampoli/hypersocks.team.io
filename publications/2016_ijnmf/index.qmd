@@ -1,0 +1,15 @@
+---
+title: "Unsteady shock‐fitting for unstructured grids"
+author: ["Bonfiglioli, A.", "Paciorri, R.", "Campoli, L."]
+publication: "International Journal for Numerical Methods in Fluids, 81, 4, 245-261, 2016."
+categories:
+  - "shock-fitting; shock-capturing; unsteady flows; unstructured meshes"
+url_source: "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fld.4183"
+url_preprint: 
+journ: "International Journal for Numerical Methods in Fluids"
+issue: 81
+page: "245-261"
+year: 2016
+image: "image.jpg"
+pub_number: 
+---

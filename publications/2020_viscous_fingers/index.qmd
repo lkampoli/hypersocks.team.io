@@ -11,5 +11,5 @@ issue: 3
 page: "443-464"
 year: 2020
 image: "image.png"
-pub_number: 86 
+pub_number: 
 ---

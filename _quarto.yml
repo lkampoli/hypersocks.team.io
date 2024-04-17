@@ -8,8 +8,8 @@ execute:
 website:
   page-navigation: true  
   title: <br>"Hypersocks Team"
-  site-url: "https://hypersocks.quarto.pub/hypersocks-team" 
-  repo-url: https://hypersocks.quarto.pub/hypersocks-team
+  site-url: "https://github.com/lkampoli/hypersocks.team.io" 
+  repo-url: https://github.com/lkampoli/hypersocks.team.io
   repo-actions: [edit, source, issue]
   
   page-footer:

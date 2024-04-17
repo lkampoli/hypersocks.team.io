@@ -11,5 +11,5 @@ issue: 175
 page: "493-509"
 year: 2020
 image: "image.jpg"
-pub_number: 86 
+pub_number: 
 ---

@@ -1,0 +1,15 @@
+---
+title: "Shock-fitting and predictor-corrector explicit ale residual distribution"
+author: ["Campoli, L.", "Quemar, P.", "Bonfiglioli, A.", "Ricchiuto, M."]
+publication: "Shock Fitting: Classical Techniques, Recent Developments, and Memoirs of Gino Moretti, 113-129, 2017, Springer International Publishing."
+categories:
+  - ""
+url_source: "https://link.springer.com/book/10.1007/978-3-319-68427-7"
+url_preprint: 
+journ: "Springer Cham"
+issue: 1
+page: "XVIII, 228"
+year: 2017
+image: "image.png"
+pub_number: 
+---

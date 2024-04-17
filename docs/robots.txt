@@ -1,1 +1,1 @@
-Sitemap: https://eeabffd1-a995-4cb4-8a14-8ab91b99429c.netlify.app/sitemap.xml
+Sitemap: https://hypersocks.quarto.pub/hypersocks-team/sitemap.xml

@@ -1,0 +1,15 @@
+---
+title: "An unsteady shock-fitting technique for unstructured grids"
+author: ["A. Bonfiglioli", "R. Paciorri", "L. Campoli"]
+publication: "European Congress on Computational Fluid Dynamics (ECFD VI), 4864-4872, 2014."
+categories:
+  - "Shock-capturing; Shock-fitting; Arbitrary Lagrangian Eulerian; Moving Grids; Unsteady flows"
+url_source: "https://oldwww.unibas.it/utenti/bonfiglioli/PapersAldo/unsteady.pdf"
+url_preprint: "https://oldwww.unibas.it/utenti/bonfiglioli/PapersAldo/unsteady.pdf"
+journ: ""
+issue: 1
+page: "4864-4872"
+year: 2014
+image: "image.png"
+pub_number: 
+---

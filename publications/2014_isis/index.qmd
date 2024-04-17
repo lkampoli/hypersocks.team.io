@@ -1,0 +1,15 @@
+---
+title: "Unstructured shock-fitting calculations of transonic turbo-machinery flows"
+author: ["A. Bonfiglioli", "R. Paciorri", "L. Campoli"]
+publication: "11th European Conference On Turbomachinery Fluid Dynamics & Thermodynamics, 2015, European Turbomachinery Society."
+categories:
+  - "Shock-fitting; Turbomachinery; Unsteady flows"
+url_source: "https://www.researchgate.net/publication/282069094_Unstructured_shock-fitting_calculations_of_transonic_turbo-machinery_flows"
+url_preprint: ""
+journ: ""
+issue: 
+page: ""
+year: 2014
+image: "image.png"
+pub_number:
+---

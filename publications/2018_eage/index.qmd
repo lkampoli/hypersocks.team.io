@@ -1,0 +1,15 @@
+---
+title: "Gazpromneft STC Experience in Integration of Structural and Basin Modeling Technologies for Exploration of Petroleum Systems in Regions With Complex Tectonics"
+author: ["Kampoli I.", "Belenkaya I.", "Nilov S.", "Murzin R."]
+publication: "InSaint Petersburg 2018 Apr 9 (Vol. 2018, No. 1, pp. 1-5). European Association of Geoscientists & Engineers."
+categories:
+  - ""
+url_source: "https://www.earthdoc.org/content/papers/10.3997/2214-4609.201800247"
+url_preprint: 
+journ: "EAGE"
+issue: 1
+page: "1-5"
+year: 2018
+image: "image.png"
+pub_number: 
+---

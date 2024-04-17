@@ -1,0 +1,15 @@
+---
+title: "Development of an unsteady shock-fitting technique for unstructured grids"
+author: ["Bonfiglioli, A.", "Paciorri, R.","Campoli, L.", "De Amicis, V.", "Onofri, M."]
+publication: "30th International Symposium on Shock Waves 2: ISSW30-Volume 2, 1501-1504, 2017, Springer International Publishing."
+categories:
+  - ""
+url_source: "https://link.springer.com/book/10.1007/978-3-319-44866-4?page=7"
+url_preprint: 
+journ: "Springer"
+issue: 2
+page: "1501-1504"
+year: 2017
+image: "image.png"
+pub_number: 
+---
