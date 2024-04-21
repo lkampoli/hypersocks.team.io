@@ -1,7 +1,7 @@
 ---
-title: Shock-Fitting
-alias: &ALIAS shock-fitting
-image: sf.jpeg
+title: Clustering for turbulence modelling
+alias: &ALIAS clustering
+image: ML4TM.png
 listing:
   id: pubs
   template: ../../_ejs/publications-people.ejs 
@@ -14,15 +14,13 @@ listing:
   fields: [publication, title, categories, image, date, author]
 
 ---
-![](sf.jpeg)
-
-Development of shock-fitting techniques for an accurate tracking and
-representation of flows characterised by the presence of shocks and other
-discontinuities such that the formal order of accuracy of the underlying CFD
-solver is preserved.
+![](ML4TM.png)
 
 ## Related Publications
 
+Developing a transparent and reprodubile pipeline to explore the use of unsupervised clustering algorithms in turbulence modeling.
+
+## Related Codes
 
 :::{#pubs}
 :::

@@ -16,6 +16,11 @@ listing:
 ---
 ![](neq.jpeg)
 
+Development of a 0/1/2/3D integrated numerical framework for the simulation of
+non-equilibrium high-speed reactive viscous flows according to a wide range of
+formulations, from the canonical one- and two-temperature models to
+multi-temperature and state-to-state implementation.
+
 ## Related Publications
 
 :::{#pubs}

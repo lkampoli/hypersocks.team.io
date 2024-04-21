@@ -16,8 +16,12 @@ listing:
 ---
 ![](gep.jpeg)
 
-## Related Publications
+Data-driven turbulence modeling through Gene Expression Programming
+evolutionary algorithms to improve RANS predictions by augmenting Reynolds
+stresses, production terms and turbulent diffusivity fields for several complex
+geometry testcases.
 
+## Related Publications
 
 :::{#pubs}
 :::
