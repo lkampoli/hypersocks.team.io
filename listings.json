@@ -31,12 +31,18 @@
       "/publications/2020_model_validation/index.html",
       "/publications/2020_viscous_fingers/index.html",
       "/publications/2022_assessement/index.html",
-      "/publications/2022_undifi-2d/index.html"
+      "/publications/2022_undifi-2d/index.html",
+      "/publications/2024_og/index.html"
     ]
+  },
+  {
+    "listing": "/research/unsupervised_clustering_in_turbulence_modelling/index.html",
+    "items": []
   },
   {
     "listing": "/research/index.html",
     "items": [
+      "/research/unsupervised_clustering_in_turbulence_modelling/index.html",
       "/research/data-driven_turbulence_modelling/index.html",
       "/research/machine_learning_for_sts/index.html",
       "/research/non-equilibrium_high-speed_flows/index.html",
