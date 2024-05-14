@@ -1,0 +1,469 @@
+{
+ "name": "Hypersocks Team",
+ "children": [
+  {"name": "Competitors",
+        "children": [
+        {"name": "Everyone else until partner!"}
+       ]
+  },
+  {
+   "name": "Customers",
+   "children": [
+    {
+     "name": "Government",
+     "children": [
+      {"name": "iLaunch",
+       "children": [
+        {"name": "Darin Lovett",      "link": "darinlovett",       "size": 7074},
+        {"name": "Joni Sytsma",       "link": "joni-sytsma",       "size": 7074},
+        {"name": "Shivaun Maccarthy", "link": "shivaun-maccarthy", "size": 7074},
+        {"name": "Milica Symul",      "link": "milica-symul",      "size": 7074}
+       ]
+      },
+      {"name": "DSTG", 
+        "children": [
+        {"name": "Bianca Capra", "link": "bianca-capra", "size": 7074},
+        {"name": "Peter Manovski", "link": "peter-manovski-a8749713a", "size": 7074}
+       ]
+      },
+      {"name": "NOAA", "size": 1375},
+      {"name": "BOM",
+        "children": [
+        {"name": "Asiful Islam", "link": "asiful1islam", "size": 7074},
+        {"name": "Ashoka Jayawardena", "link": "ashoka1234", "size": 7074},
+        {"name": "Mohammadreza Khanarmuei", "link": "mohammadreza-khanarmuei-437a3163", "size": 7074}
+       ]
+      },
+      {"name": "Austrade", "size": 2202},
+      {"name": "DAIRNet", 
+        "children": [
+        {"name": "Mel Mcdowall", "link": "melmcdowall", "size": 7074}
+       ]
+      },
+      {"name": "AFRL",
+        "children": [
+        {"name": "Javier Urzay", "link": "jurzay", "size": 7074}
+       ]
+      }
+     ]
+    },
+    {"name": "Space Agencies",
+     "children": [
+      {"name": "SIAA",
+	"children": [
+        {"name": "Jeremy Hallett", "link": "jeremy-hallett", "size": 1983}
+       ]
+      },
+      {"name": "ESA",
+	"children": [
+        {"name": "N/A", "link": "N/A", "size": 1983}
+       ]
+      },
+      {"name": "ASA", 
+        "children": [
+         {"name": "Liz Pearce", "link": "liz-pearce-060ba1118", "size": 3938},
+         {"name": "Arvind Ramana", "link": "arvindramana", "size": 3938}
+        ]
+      },
+      {"name": "SASIC", "size": 1375}
+     ]
+    },
+    {"name": "Private Companies",
+     "children": [
+      {"name": "One Giant Leap", 
+       "children": [
+        {"name": "Jackie Carpenter", "link": "jackie-carpenter", "size": 3938},
+        {"name": "Yui Shimomura", "link": "yui-shimomura-44aa51211", "size": 3938}
+       ]
+      },
+    {
+     "name": "Dassault Systems",
+     "children": [
+      {"name": "Iman Samani", 	 "link": "imansaman", 	  "size": 3534},
+      {"name": "Stuart Seymon",	 "link": "stuart-seymon", "size": 3534},
+      {"name": "Stephen Hill",	 "link": "hills588",      "size": 3534}
+     ]
+    },
+    {
+     "name": "LEAP Australia",
+     "children": [
+      {"name": "Lewis Clark", 	 "link": "lewis-clark-38128195", "size": 3534},
+      {"name": "David Fletcher", "link": "david-f-fletcher", 	 "size": 5731},
+      {"name": "Dave Hyde",  	 "link": "davejhyde", 		 "size": 7840},
+      {"name": "Bennett Frerck", "link": "bennett-frerck",	 "size": 7840},
+      {"name": "Peter Brand", "link": "peter-brand-599490",	 "size": 7840}
+     ]
+    },
+    {
+     "name": "Ansys",
+     "children": [
+      {"name": "Simone Venturi", "link": "sventuri", "size": 7074},
+      {"name": "Ekaterina Guseva", "link": "ekaterina-guseva-8b1a33217", "size": 7074}
+     ]
+    },
+      {"name": "Space Connect", "size": 2047},
+      {"name": "SpaceBase Limited",
+       "children": [
+        {"name": "Emeline Paat-Dahlstrom", "link": "epaatdahlstrom", "size": 3938}
+       ]
+      },
+      {"name": "Robinson Aerospace Systems", "size": 2047},
+      {"name": "Sydney Interplanetary Rover Initiative",
+       "children": [
+        {"name": "Kaylee Li", "link": "li-kaylee", "size": 3938}
+       ]
+      },
+      {"name": "Andy Thomas Space Foundation", 
+       "children": [
+        {"name": "Darcey Watson", "link": "darcey-watson", "size": 3938}
+       ]
+      },
+      {"name": "Fleet Space Technologies",
+       "children": [
+        {"name": "Hemant Chaurasia", "link": "hchaurasia", "size": 3938}
+       ]
+      },
+      {"name": "Athena AI", "size": 1375},
+      {"name": "Cyborg Dynamics", "size": 1375},
+      {"name": "Cicada Innovations",
+	"children": [
+        {"name": "Tim Parsons", "link": "timparsons", "size": 1983},
+        {"name": "Ingrid Marsh", "link": "itmarsh", "size": 1983}
+       ]
+      },
+      {"name": "Hypersonix", 
+       "children": [
+        {"name": "Michael Smart", "link": "michael-smart-69b2a3178", "size": 3938},
+        {"name": "Matt Hill", "link": "matt-a-hill-a5705418", "size": 3938},
+        {"name": "Leon Schmechel", "link": "leonschmechel", "size": 3938},
+        {"name": "Stephen Hall", "link": "dr-stephen-d-hall-a09393106", "size": 3938},
+        {"name": "Andrew Dann", "link": "andrew-dann-74bb6350", "size": 3938},
+        {"name": "Sam Grieve", "link": "sam-grieve-0132a5aa", "size": 3938}
+       ]
+      },
+      {"name": "ELO2", 
+	"children": [
+        {"name": "Joseph Kenrick", "link": "joseph-kenrick-aa9790128", "size": 1983},
+        {"name": "Ben Sorensen", "link": "bsorensen", "size": 1983}
+       ]
+      },
+      {"name": "ANT61", 
+       "children": [
+        {"name": "Mikhail Asavkin", "link": "limenutt", "size": 3938}
+       ]
+      },
+      {"name": "Space machines", 
+       "children": [
+        {"name": "N/A", "link": "N/A", "size": 3938}
+       ]
+      },
+      {"name": "Saber astronautics", 
+       "children": [
+        {"name": "N/A", "link": "N/A", "size": 3938}
+       ]
+      },
+      {"name": "Neumann Space", 
+       "children": [
+        {"name": "N/A", "link": "N/A", "size": 3938}
+       ]
+      },
+      {"name": "Fluid Numerics", 
+       "children": [
+        {"name": "Joseph Schoonover", "link": "joseph-schoonover-b7b8a8156", "size": 3938}
+       ]
+      },
+      {"name": "Codee", 
+       "children": [
+        {"name": "Manuel Arenaz", "link": "manuelarenaz", "size": 3938}
+       ]
+      },
+      {"name": "Intel", 
+       "children": [
+        {"name": "Sharanya Subramaniam", "link": "17sharanya", "size": 3938}
+       ]
+      },
+      {"name": "HeliMods"},
+      {"name": "AROSE", 
+       "children": [
+        {"name": "Michelle Keegan", "link": "michelle-keegan-0468014", "size": 3938}
+       ]
+      },
+      {"name": "Inovor Technologies", 
+       "children": [
+        {"name": "Daniel Wardle", "link": "daniel-wardle-700853a5", "size": 3938},
+        {"name": "Matthew Tetlow", "link": "matthew-tetlow-a848482", "size": 3938}
+       ]
+      },
+      {"name": "hyimpulse",
+       "children": [
+        {"name": "Vittorio Di Pietrantonio", "link": "vittorio-di-pietrantonio", "size": 3938},
+        {"name": "Alessandro Staffolani", "link": "alessandro-staffolani-92883313a", "size": 3938},
+        {"name": "Ilnur Farizanov", "link": "ilnur-farizanov-6b2072131", "size": 3938},
+        {"name": "Jérôme Messineo", "link": "jérôme-messineo-0b762aa0", "size": 3938}
+       ]
+      },
+      {"name": "Nominal Systems", 
+       "children": [
+        {"name": "Christopher Capon", "link": "c-capon", "size": 3938}
+       ]
+      },
+      {"name": "C4 Space",
+       "children": [
+        {"name": "Rick Doblanovic", "link": "rick-doblanovic-24369621", "size": 3938}
+       ]
+      },
+      {"name": "QL Space",
+       "children": [
+        {"name": "Raj Karangautam", "link": "rajkarangautam", "size": 3938},
+        {"name": "Thejesh Poojary", "link": "thejeshspoojary", "size": 3938},
+        {"name": "Ariane Platell", "link": "ariane-platell-a1411933", "size": 3938}
+       ]
+      },
+      {"name": "Siemens Digital Industries Software",
+       "children": [
+        {"name": "Alessandro Mancini", "link": "amanc1", "size": 3938}
+       ]
+      },
+      {"name": "Aerospace Propulsion Products B.V.",
+       "children": [
+        {"name": "Antonio Ficuciello", "link": "antonio-ficuciello-09998b42", "size": 3938}
+       ]
+      },
+      {"name": "Rocket Lab", 
+       "children": [
+        {"name": "Sandy Tirtey", "link": "sandy-tirtey-72b7632", "size": 3938},
+        {"name": "Philipp Dahm", "link": "philipp-dahm-ab186761", "size": 3938},
+        {"name": "Mckay Whight", "link": "mckay-whight-4395a2133", "size": 3938},
+        {"name": "Jack Gardiner", "link": "jack-gardiner", "size": 3938}
+       ]
+      },
+      {"name": "Gilmour Space Technologies",
+       "children": [
+        {"name": "Adam Gilmour", "link": "adam-gilmour-03313489", "size": 3938},
+        {"name": "Enrico Paccagnella", "link": "enricopaccagnella", "size": 3938}
+       ]
+      },
+      {"name": "Memko",
+       "children": [
+        {"name": "Julian Gonzalez Escalante", "link": "julian-gonzalez-escalante-1a935a154", "size": 3938}
+       ]
+      },
+      {"name": "Robinson Aerospace Systems", 
+       "children": [
+        {"name": "Edward Robinson", "link": "edwardrobinsonaus", "size": 3938}
+       ]
+      },
+      {"name": "Raytheon", "size": 1375},
+      {"name": "Thales", "size": 1375},
+      {"name": "Safran", "size": 1375},
+      {"name": "Airbus", 
+       "children": [
+        {"name": "Simone Colonia", "link": "dr-simone-colonia-314104136", "size": 3938}
+       ]
+      },
+      {"name": "Rolls-Royce", "size": 1375},
+      {"name": "GE Aerospace", "size": 1375},
+      {"name": "Astro Aero", 
+       "children": [
+        {"name": "Dipen Patel", "link": "dipen-patel-engineer", "size": 3938}
+       ]
+      },
+      {"name": "EntX Limited", 
+       "children": [
+        {"name": "Scott Edwards", "link": "scott-edwards-4b0164170", "size": 3938},
+        {"name": "Allan Adias", "link": "allan-adias", "size": 3938}
+       ]
+      },
+      {"name": "Honeywell", "size": 1375},
+      {"name": "Lockheed Martin", "size": 1375},
+      {"name": "Nova Systems", 
+       "children": [
+        {"name": "Ivan Vuletich", "link": "ivanvuletich", "size": 3938},
+        {"name": "Teddy Zvidza", "link": "teddy-zvidza-251860146", "size": 3938},
+        {"name": "Travis Yuan", "link": "travis-yuan", "size": 3938}
+       ]
+      },
+      {"name": "Komatsu Australia", "size": 1375},
+      {"name": "Boeing",
+     	"children": [
+         {"name": "Julie Duetsch-Patel", "link": "julieduetschpatel", "size": 3938},
+         {"name": "David Williamson", "link": "david-williamson-aa430339", "size": 3938}
+        ]
+      },
+      {"name": "Frontier Development Lab", "size": 1375},
+      {"name": "BAE systems", "size": 1375}
+     ]
+    }
+   ]
+  },
+  {"name": "Distributors"},
+  {"name": "Other"},
+  {"name": "Partners",
+   "children": [
+    {
+     "name": "Computing Centers",
+     "children": [
+      {"name": "CINECA",
+     	"children": [
+         {"name": "Antonio Memmolo", "link": "antonio-memmolo", "size": 3938}
+        ]
+      },
+      {"name": "Pawsey",
+     	"children": [
+         {"name": "Ilkhom Abdurakhmanov", "link": "ilkhom-abdurakhmanov", "size": 3938},
+         {"name": "Cristian Di Pietrantonio", "link": "cristiandipietrantonio", "size": 3938},
+         {"name": "Marco De la Pierre", "link": "drmarcodelapierre", "size": 3938},
+         {"name": "Pascal Elahi", "link": "pascal-elahi-72b14764", "size": 3938},
+         {"name": "Maciej Cytowski", "link": "maciej-cytowski-a651761", "size": 3938}
+        ]
+      },
+      {"name": "RIKEN", "size": 6714},
+      {"name": "NCI", 
+     	"children": [
+         {"name": "Sean Smith", "link": "sean-smith-faaas-fraci-13022521", "size": 3938}
+        ]
+      },
+      {"name": "CSC", "size": 743},
+      {"name": "HLRS", "size": 743},
+      {"name": "BSC", "size": 743}
+     ]
+    },
+    {
+     "name": "Research Centers",
+     "children": [
+      {"name": "CSIRO",
+       "children": [
+        {"name": "Daniel Liang", "link": "daniel-liang-a97a495a", "size": 7074},
+        {"name": "Hasan Rayan", "link": "hrayan", "size": 7074},
+        {"name": "Peter Kambouris", "link": "peter-kambouris-99bbb01", "size": 7074},
+        {"name": "Xavier Leal", "link": "xavier-leal-87942413", "size": 7074},
+        {"name": "Vedika Latchman", "link": "vedika-latchman-singh-b325567", "size": 7074},
+        {"name": "Mark Cheung", "link": "mcmcheung", "size": 7074},
+        {"name": "Kimal Hiralall", "link": "kimal-hiralall-9383022", "size": 7074},
+        {"name": "Yannan Lu", "link": "yannan-lu-92a26b236", "size": 7074}
+       ]
+      },
+      {"name": "LLNL", "size": 3938},
+      {"name": "ORNL",
+       "children": [
+        {"name": "Ashley Barker", "link": "ashley-barker-b7435151", "size": 3938}
+       ]
+      },
+      {"name": "ANL", 
+       "children": [
+        {"name": "Romit Maulik", "link": "romit-maulik-cfd", "size": 3938}
+       ]
+      },
+      {"name": "Data61",
+       "children": [
+        {"name": "Olivier Salvado", "link": "oliviersalvado", "size": 3938},
+        {"name": "Ali Cheraghian", "link": "ali-cheraghian-006aa26b", "size": 3938}
+       ]
+      },
+      {"name": "NASA",
+       "children": [
+        {"name": "Bruno Dias", "link": "bruno-dias-b58b6237", "size": 3938}
+       ]
+      }
+     ]
+    },
+    {"name": "Private Companies", "size": 3416},
+    {"name": "Experimental Facilities", "size": 3416},
+    {
+     "name": "Academia",
+     "children": [
+      {"name": "UniSA", "size": 7074},
+      {"name": "UniMelb",
+       "children": [
+        {"name": "Massimiliano Nardini", "link": "massimiliano-nardini", "size": 3938},
+        {"name": "Melissa Kozul", "link": "melissa-kozul-49858827", "size": 3938},
+        {"name": "Richard Sandberg", "link": "richard-sandberg-327178a8", "size": 3938},
+        {"name": "Thomas Jelly", "link": "thomas-jelly-4a554176", "size": 3938},
+        {"name": "Pawel Przytarski", "link": "pawel-przytarski-94912049", "size": 3938}
+       ]
+      },
+      {"name": "UNSW", 
+       "children": [
+        {"name": "Russell Boyce", "link": "russell-boyce-935ab01a", "size": 3938},
+        {"name": "Melrose Brown", "link": "melrose-brown", "size": 3938},
+        {"name": "Krishna Talluru", "link": "krishna-talluru-07433478", "size": 3938},
+        {"name": "David Petty", "link": "david-petty-730a1423", "size": 3938},
+        {"name": "Andrew Neely", "link": "andrew-neely", "size": 3938}
+       ]
+      },
+      {"name": "UniSQ", 
+        "children": [
+        {"name": "Ingo Jahn", "link": "ingo-jahn-a2336567", "size": 3938}
+       ]
+      },
+      {"name": "ISU", "size": 7074},
+      {"name": "ANU", 
+       "children": [
+        {"name": "Sean O'Byrne", "link": "sean-o-byrne-3529377", "size": 3938},
+        {"name": "Anna Moore", "link": "professor-anna-moore", "size": 3938},
+        {"name": "Eduardo Trifoni", "link": "eduardo-trifoni-347300295", "size": 3938}
+       ]
+      },
+      {"name": "UQ", 
+       "children": [
+        {"name": "Ramprakash Ananthapadmanaban", "link": "ram-prakash-uq", "size": 3938},
+        {"name": "Kyle Damm", "link": "kyledamm", "size": 3938},
+        {"name": "Yu Liu", "link": "yu-liu-ba1326232", "size": 3938}
+       ]
+      },
+      {"name": "MQ",
+       "children": [
+        {"name": "Fatemeh Salehi", "link": "fatemeh-salehi-87321397", "size": 3938}
+       ]
+      },
+      {"name": "Curtin",
+       "children": [
+        {"name": "Phil Bland", "link": "phil-bland-a5639766", "size": 3938},
+        {"name": "Melanie Johnston-Hollitt", "link": "melanie-johnston-hollitt-55308a14", "size": 3938}
+       ]
+      },
+      {"name": "Illinois University", 
+       "children": [
+        {"name": "Kelly Stephani", "link": "kelly-stephani-6a30361b", "size": 3938}
+       ]
+      },
+      {"name": "Stanford University", 
+       "children": [
+        {"name": "Marco Panesi", "link": "marco-panesi-43582b2", "size": 3938}
+       ]
+      },
+      {"name": "KU Leuven", 
+       "children": [
+        {"name": "Andrea Lani", "link": "andrealani", "size": 3938}
+       ]
+      },
+      {"name": "Stony Brook University", 
+       "children": [
+        {"name": "Eva Siegmann", "link": "eva-siegmann", "size": 3938}
+       ]
+      },
+      {"name": "KAUST", 
+       "children": [
+        {"name": "Matteo Parsani", "link": "matteoparsani", "size": 3938}
+       ]
+      },
+      {"name": "Khalifa University",
+       "children": [
+        {"name": "Roberto Sabatini", "link": "roberto-sabatini-45853694", "size": 3938},
+        {"name": "Alessandro Gardi", "link": "alessandrogmgardi", "size": 3938}
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {"name": "Stakeholders"},
+  {"name": "Suppliers"},
+  {"name": "Wholesalers",
+   "children": [
+    {"name": "TCL Hofman"}
+   ]
+  }
+ ]
+}
+
