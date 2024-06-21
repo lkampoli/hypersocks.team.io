@@ -85,78 +85,26 @@
     "text": "Project 2:"
   },
   {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
+    "objectID": "codes/index.html",
+    "href": "codes/index.html",
+    "title": "Hypersocks Team Codes",
     "section": "",
-    "text": "Acceptance for ON Prime 15 Innovation Program\n\n\n\n\n\nThe Hypersocks Team was successful with the application for ON Prime Program.\n\n\n\n\n\nMar 2024\n\n\n\n\n\n\nNo matching items",
+    "text": "See our Github site for relevant group codes:\n\nKAPPA: Kinetic Approach to Physical Processes in Atmospheres This is is an open-source library written in C++ and developed at the Department of Hydroaeromechanics of the Saint Petersburg State University (SPBSU), designed to be coupled with conventional CFD codes to provide thermodynamic, transport, chemistry, and energy transfer properties associated with non-equilibrium reacting flows.\nUnDiFi-2D: an Unstructured Discontinuity Fitting code for 2D grids UnDiFi-2D is written in standard (compliant) Fortran 77/95 with highly modularity as design target. The aim of UnDiFi-2D is to explicitely manage discontinuities in the flow field. In our unstructured shock-fitting approach the shock front is described using a double-sided, polygonal curve. Two sets of flow states, corresponding to the upstream and downstream sides of the discontinuity, are assigned to the grid-points located on either side of the shock front. This is allowed to move, while obeying to the Rankine-Hugoniot jump relations, throughout a background triangular mesh that covers the entire computational domain. At each time step, a local, constrained Delaunay triangulation is applied in the neighbourhood of the shock front to ensure that the edges that make up the shock front are part of the overall triangular grid. The fitted shock acts as an interior boundary for the shock-capturing solver that is used to solve the discretised governing equations in the smooth regions of the flow-field.\nML4STS: Machine Learning for State-To-State This project aims at investigating the usage of machine learning algorithms for Tthe solution of high-speed (viscous and inviscid, reacting and non-reacting) non-equilibrium flows according to a state-to-state (STS) formulation. Several machine learning methods, including neural networks are considered.\nINNA: Introduction to NoNequilibrium Applications This is CFD solver which aims at simulating non-equilibrium flows using different levels of approximations: one-temperature (1T), multi-temperature (MT), state-to-state (STS). The modular design favors the addition of new models or functionalities in a straightforward manner.\nGEP: Gene Expression Programming EVE3 is a machine learning framework based on evolutionary algorithms implemented in Python 3. The framework is mostly used to perform symbolic regression via Gene Expression Programming. EVE3 is capable of regressing multiple mathematical equations simultaneously, scalar, vectorial and tensorial, training the equations towards multiple objectives, using variables of arbitrary dimensionality and evaluating the equations with external software.",
     "crumbs": [
-      "News"
+      "Codes"
     ]
   },
   {
-    "objectID": "research/machine_learning_for_sts/index.html",
-    "href": "research/machine_learning_for_sts/index.html",
-    "title": "Machine Learning for State-to-State",
+    "objectID": "research/data-driven_turbulence_modelling/index.html",
+    "href": "research/data-driven_turbulence_modelling/index.html",
+    "title": "Data-driven Turbulence Modelling",
     "section": "",
-    "text": "Evaluation of several canonical machine learning algorithms to speed-up state-to-state and multi-temperature kinetic and transport modules."
+    "text": "Data-driven turbulence modeling through Gene Expression Programming evolutionary algorithms to improve RANS predictions by augmenting Reynolds stresses, production terms and turbulent diffusivity fields for several complex geometry testcases."
   },
   {
-    "objectID": "research/machine_learning_for_sts/index.html#related-publications",
-    "href": "research/machine_learning_for_sts/index.html#related-publications",
-    "title": "Machine Learning for State-to-State",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research Areas",
-    "section": "",
-    "text": "Clustering for turbulence modelling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData-driven Turbulence Modelling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning for State-to-State\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNon-Equilibrium High-Speed Flows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShock-Fitting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViscous Fingers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Research"
-    ]
-  },
-  {
-    "objectID": "research/non-equilibrium_high-speed_flows/index.html",
-    "href": "research/non-equilibrium_high-speed_flows/index.html",
-    "title": "Non-Equilibrium High-Speed Flows",
-    "section": "",
-    "text": "Development of a 0/1/2/3D integrated numerical framework for the simulation of non-equilibrium high-speed reactive viscous flows according to a wide range of formulations, from the canonical one- and two-temperature models to multi-temperature and state-to-state implementation."
-  },
-  {
-    "objectID": "research/non-equilibrium_high-speed_flows/index.html#related-publications",
-    "href": "research/non-equilibrium_high-speed_flows/index.html#related-publications",
-    "title": "Non-Equilibrium High-Speed Flows",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/shock-fitting/index.html",
-    "href": "research/shock-fitting/index.html",
-    "title": "Shock-Fitting",
-    "section": "",
-    "text": "Development of shock-fitting techniques for an accurate tracking and representation of flows characterised by the presence of shocks and other discontinuities such that the formal order of accuracy of the underlying CFD solver is preserved."
-  },
-  {
-    "objectID": "research/shock-fitting/index.html#related-publications",
-    "href": "research/shock-fitting/index.html#related-publications",
-    "title": "Shock-Fitting",
-    "section": "Related Publications",
-    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/viscous-fingering/index.html",
-    "href": "research/viscous-fingering/index.html",
-    "title": "Viscous Fingers",
-    "section": "",
-    "text": "Numerical Investigation of Viscous Fingering Phenomenon for Raw Field Data."
-  },
-  {
-    "objectID": "research/viscous-fingering/index.html#related-publications",
-    "href": "research/viscous-fingering/index.html#related-publications",
-    "title": "Viscous Fingers",
+    "objectID": "research/data-driven_turbulence_modelling/index.html#related-publications",
+    "href": "research/data-driven_turbulence_modelling/index.html#related-publications",
+    "title": "Data-driven Turbulence Modelling",
     "section": "Related Publications",
     "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
   },
@@ -175,27 +123,79 @@
     "text": "Related Codes\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
   },
   {
-    "objectID": "research/data-driven_turbulence_modelling/index.html",
-    "href": "research/data-driven_turbulence_modelling/index.html",
-    "title": "Data-driven Turbulence Modelling",
+    "objectID": "research/viscous-fingering/index.html",
+    "href": "research/viscous-fingering/index.html",
+    "title": "Viscous Fingers",
     "section": "",
-    "text": "Data-driven turbulence modeling through Gene Expression Programming evolutionary algorithms to improve RANS predictions by augmenting Reynolds stresses, production terms and turbulent diffusivity fields for several complex geometry testcases."
+    "text": "Numerical Investigation of Viscous Fingering Phenomenon for Raw Field Data."
   },
   {
-    "objectID": "research/data-driven_turbulence_modelling/index.html#related-publications",
-    "href": "research/data-driven_turbulence_modelling/index.html#related-publications",
-    "title": "Data-driven Turbulence Modelling",
+    "objectID": "research/viscous-fingering/index.html#related-publications",
+    "href": "research/viscous-fingering/index.html#related-publications",
+    "title": "Viscous Fingers",
     "section": "Related Publications",
     "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
   },
   {
-    "objectID": "codes/index.html",
-    "href": "codes/index.html",
-    "title": "Hypersocks Team Codes",
+    "objectID": "research/shock-fitting/index.html",
+    "href": "research/shock-fitting/index.html",
+    "title": "Shock-Fitting",
     "section": "",
-    "text": "See our Github site for relevant group codes:\n\nKAPPA: Kinetic Approach to Physical Processes in Atmospheres This is is an open-source library written in C++ and developed at the Department of Hydroaeromechanics of the Saint Petersburg State University (SPBSU), designed to be coupled with conventional CFD codes to provide thermodynamic, transport, chemistry, and energy transfer properties associated with non-equilibrium reacting flows.\nUnDiFi-2D: an Unstructured Discontinuity Fitting code for 2D grids UnDiFi-2D is written in standard (compliant) Fortran 77/95 with highly modularity as design target. The aim of UnDiFi-2D is to explicitely manage discontinuities in the flow field. In our unstructured shock-fitting approach the shock front is described using a double-sided, polygonal curve. Two sets of flow states, corresponding to the upstream and downstream sides of the discontinuity, are assigned to the grid-points located on either side of the shock front. This is allowed to move, while obeying to the Rankine-Hugoniot jump relations, throughout a background triangular mesh that covers the entire computational domain. At each time step, a local, constrained Delaunay triangulation is applied in the neighbourhood of the shock front to ensure that the edges that make up the shock front are part of the overall triangular grid. The fitted shock acts as an interior boundary for the shock-capturing solver that is used to solve the discretised governing equations in the smooth regions of the flow-field.\nML4STS: Machine Learning for State-To-State This project aims at investigating the usage of machine learning algorithms for Tthe solution of high-speed (viscous and inviscid, reacting and non-reacting) non-equilibrium flows according to a state-to-state (STS) formulation. Several machine learning methods, including neural networks are considered.\nINNA: Introduction to NoNequilibrium Applications This is CFD solver which aims at simulating non-equilibrium flows using different levels of approximations: one-temperature (1T), multi-temperature (MT), state-to-state (STS). The modular design favors the addition of new models or functionalities in a straightforward manner.\nGEP: Gene Expression Programming EVE3 is a machine learning framework based on evolutionary algorithms implemented in Python 3. The framework is mostly used to perform symbolic regression via Gene Expression Programming. EVE3 is capable of regressing multiple mathematical equations simultaneously, scalar, vectorial and tensorial, training the equations towards multiple objectives, using variables of arbitrary dimensionality and evaluating the equations with external software.",
+    "text": "Development of shock-fitting techniques for an accurate tracking and representation of flows characterised by the presence of shocks and other discontinuities such that the formal order of accuracy of the underlying CFD solver is preserved."
+  },
+  {
+    "objectID": "research/shock-fitting/index.html#related-publications",
+    "href": "research/shock-fitting/index.html#related-publications",
+    "title": "Shock-Fitting",
+    "section": "Related Publications",
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/non-equilibrium_high-speed_flows/index.html",
+    "href": "research/non-equilibrium_high-speed_flows/index.html",
+    "title": "Non-Equilibrium High-Speed Flows",
+    "section": "",
+    "text": "Development of a 0/1/2/3D integrated numerical framework for the simulation of non-equilibrium high-speed reactive viscous flows according to a wide range of formulations, from the canonical one- and two-temperature models to multi-temperature and state-to-state implementation."
+  },
+  {
+    "objectID": "research/non-equilibrium_high-speed_flows/index.html#related-publications",
+    "href": "research/non-equilibrium_high-speed_flows/index.html#related-publications",
+    "title": "Non-Equilibrium High-Speed Flows",
+    "section": "Related Publications",
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research Areas",
+    "section": "",
+    "text": "Clustering for turbulence modelling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData-driven Turbulence Modelling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning for State-to-State\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNon-Equilibrium High-Speed Flows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShock-Fitting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViscous Fingers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Codes"
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research/machine_learning_for_sts/index.html",
+    "href": "research/machine_learning_for_sts/index.html",
+    "title": "Machine Learning for State-to-State",
+    "section": "",
+    "text": "Evaluation of several canonical machine learning algorithms to speed-up state-to-state and multi-temperature kinetic and transport modules."
+  },
+  {
+    "objectID": "research/machine_learning_for_sts/index.html#related-publications",
+    "href": "research/machine_learning_for_sts/index.html#related-publications",
+    "title": "Machine Learning for State-to-State",
+    "section": "Related Publications",
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "CSIRO OnPrime15 showcase night in Sydney\n\n\n\n\n\nThe Hypersocks Team will present its journey through the CSIRO ON Prime Program.\n\n\n\n\n\nJun 2024\n\n\n\n\n\n\n\nPawsey Uptake Project Collaboration\n\n\n\n\n\nThe Hypersocks Team’s expression of interest titled “Modelling of nonequilibrium carbon dioxide flows in modern aerothermodynamic problems” for the Pawsey Uptake Project call has been successful. https://pawsey.org.au/supercomputing/pawsey-uptake-project-expression-of-interest-call\n\n\n\n\n\nMay 2024\n\n\n\n\n\n\n\nAcceptance for ON Prime 15 Innovation Program\n\n\n\n\n\nThe Hypersocks Team was successful with the application for ON Prime Program.\n\n\n\n\n\nMar 2024\n\n\n\n\n\n\n\nInternational Summer School on HPC Challenges in Computational Sciences\n\n\n\n\n\nThe Hypersocks Team was successful in the application for the International Summer School on HPC Challenges in Computational Sciences (IHPCSS 2024), July 7-12, 2024, to be held in Kobe, Japan. https://ss24.ihpcss.org\n\n\n\n\n\nMar 2024\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "News"
     ]
   },
   {
