@@ -1,0 +1,5 @@
+---
+title: "CSIRO OnPrime15 showcase night in Sydney"
+date: '2024-06-25'
+description: The Hypersocks Team will present its journey through the CSIRO ON Prime Program.
+---

@@ -1,0 +1,8 @@
+---
+title: "International Summer School on HPC Challenges in Computational Sciences"
+date: '2024-03-22'
+description: The Hypersocks Team was successful in the application for the
+             International Summer School on HPC Challenges in Computational
+             Sciences (IHPCSS 2024), July 7-12, 2024, to be held in Kobe, Japan.
+             https://ss24.ihpcss.org
+---

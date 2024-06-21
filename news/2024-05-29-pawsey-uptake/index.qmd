@@ -1,0 +1,8 @@
+---
+title: "Pawsey Uptake Project Collaboration"
+date: '2024-05-29'
+description: The Hypersocks Team's expression of interest titled “Modelling of
+             nonequilibrium carbon dioxide flows in modern aerothermodynamic problems” for
+             the Pawsey Uptake Project call has been successful.
+             https://pawsey.org.au/supercomputing/pawsey-uptake-project-expression-of-interest-call
+---
