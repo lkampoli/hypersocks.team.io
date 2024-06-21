@@ -1,0 +1,9 @@
+PWD /home/unimelb.edu.au/lcampoli/Templates/hypersocks.team.io/notebooks
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/latex.fmt
+INPUT python2latextable.tex
+OUTPUT python2latextable.log
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm

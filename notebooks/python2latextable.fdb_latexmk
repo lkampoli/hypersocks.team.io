@@ -1,0 +1,13 @@
+# Fdb version 3
+["latex"] 1715934491 "python2latextable.tex" "python2latextable.dvi" "python2latextable" 1715934491
+  "/etc/texmf/web2c/texmf.cnf" 1587535525 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
+  "/var/lib/texmf/web2c/pdftex/latex.fmt" 1688342917 4129519 2ed64d4a6336113cb83130ff5895ae86 ""
+  "python2latextable.aux" 1715934491 8 a94a2480d3289e625eea47cd1b285758 ""
+  "python2latextable.tex" 1714638974 19300 b2338cd493cb9f0205c85d9b11a55c7d ""
+  (generated)
+  "python2latextable.dvi"
+  "python2latextable.log"

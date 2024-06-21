@@ -20,6 +20,11 @@
         {"name": "Milica Symul",      "link": "milica-symul",      "size": 7074}
        ]
       },
+      {"name": "DARPA", 
+        "children": [
+        {"name": "Susan Swithenbank", "link": "susan-swithenbank-b391463", "size": 7074}
+       ]
+      },
       {"name": "DSTG", 
         "children": [
         {"name": "Bianca Capra", "link": "bianca-capra", "size": 7074},
@@ -152,6 +157,16 @@
         {"name": "Mikhail Asavkin", "link": "limenutt", "size": 3938}
        ]
       },
+      {"name": "Axiom Space", 
+       "children": [
+        {"name": "N/A", "link": "N/A", "size": 3938}
+       ]
+      },
+      {"name": "Deloitte", 
+       "children": [
+        {"name": "N/A", "link": "N/A", "size": 3938}
+       ]
+      },
       {"name": "Space machines", 
        "children": [
         {"name": "N/A", "link": "N/A", "size": 3938}
@@ -248,6 +263,22 @@
         {"name": "Julian Gonzalez Escalante", "link": "julian-gonzalez-escalante-1a935a154", "size": 3938}
        ]
       },
+      {"name": "SpaceX",
+       "children": [
+        {"name": "Nik Cooper", "link": "nik-cooper-099a4353", "size": 3938}
+       ]
+      },
+      {"name": "Varda Space Industries",
+       "children": [
+        {"name": "Marat Kulakhmetov", "link": "maratkulakhmetov", "size": 3938},
+        {"name": "Edward Almaria", "link": "edward-almaria", "size": 3938}
+       ]
+      },
+      {"name": "Blue Origin",
+       "children": [
+        {"name": "N/A", "link": "N/A", "size": 3938}
+       ]
+      },
       {"name": "Robinson Aerospace Systems", 
        "children": [
         {"name": "Edward Robinson", "link": "edwardrobinsonaus", "size": 3938}
@@ -256,12 +287,37 @@
       {"name": "Raytheon", "size": 1375},
       {"name": "Thales", "size": 1375},
       {"name": "Safran", "size": 1375},
+      {"name": "Reaction Engines",
+       "children": [
+        {"name": "Michela Gramola", "link": "michela-gramola", "size": 3938},
+        {"name": "Pedro Goncalves", "link": "pmiguelgoncalves", "size": 3938},
+        {"name": "Kathryn Evans", "link": "kathryn-evans", "size": 3938},
+        {"name": "Yashi Kuplish", "link": "yashi-kuplish-310379101", "size": 3938},
+        {"name": "Felix Newman", "link": "felix-newman-eng", "size": 3938},
+        {"name": "Shubha Verma", "link": "shubha-verma-1756a4160", "size": 3938},
+        {"name": "Connor O'Pray", "link": "connor-opray", "size": 3938},
+        {"name": "Vladeta Zmijanovic", "link": "vladeta-z", "size": 3938},
+        {"name": "Ignacio Duran", "link": "duranignacio", "size": 3938}
+       ]
+      },
       {"name": "Airbus", 
        "children": [
         {"name": "Simone Colonia", "link": "dr-simone-colonia-314104136", "size": 3938}
        ]
       },
       {"name": "Rolls-Royce", "size": 1375},
+      {"name": "Hermeus", "size": 1375},
+      {"name": "Venus Aerospace", "size": 1375},
+      {"name": "Destinus", "size": 1375},
+      {"name": "Equatorial Space", "size": 1375},
+      {"name": "Aliena Pte Ltd", "size": 1375},
+      {"name": "Singapore Space & Technology Ltd", "size": 1375},
+      {"name": "NuSpace Pte Ltd", "size": 1375},
+      {"name": "Stratolaunch", "size": 1375},
+      {"name": "Pythom Space", "size": 1375},
+      {"name": "Radian Aerospace", "size": 1375},
+      {"name": "Wave Motion Launch Corporation", "size": 1375},
+      {"name": "General Dynamics", "size": 1375},
       {"name": "GE Aerospace", "size": 1375},
       {"name": "Astro Aero", 
        "children": [
@@ -276,6 +332,7 @@
       },
       {"name": "Honeywell", "size": 1375},
       {"name": "Lockheed Martin", "size": 1375},
+      {"name": "Northrop Grumman", "size": 1375},
       {"name": "Nova Systems", 
        "children": [
         {"name": "Ivan Vuletich", "link": "ivanvuletich", "size": 3938},
@@ -291,6 +348,7 @@
         ]
       },
       {"name": "Frontier Development Lab", "size": 1375},
+      {"name": "Space Exploration Engineering", "size": 1375},
       {"name": "BAE systems", "size": 1375}
      ]
     }
