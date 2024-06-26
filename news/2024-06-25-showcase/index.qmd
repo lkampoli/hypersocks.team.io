@@ -3,3 +3,16 @@ title: "CSIRO OnPrime15 showcase night in Sydney"
 date: '2024-06-25'
 description: The Hypersocks Team will present its journey through the CSIRO ON Prime Program.
 ---
+
+
+```{=html}
+<object data="On_Prime_15_Program.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="On_Prime_15_Program.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
+::: {.content-visible when-format="html"}
+[Click to see](On_Prime_15_Program.pdf)
+:::
